@@ -13,7 +13,12 @@ I’m currently seeking opportunities in data analytics, business intelligence, 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 # 📈 Data Projects!:
 <h3>
+ Housing Affordability Analysis
+ <img src="https://github.com/user-attachments/assets/519f9ded-2f54-460e-b9e2-4717894e0dff" width="25" align="center" /> <img src="https://github.com/user-attachments/assets/8d6254e4-6b82-47a1-baed-cd11ec0120b5" width="25" align="center" /> <img src="https://github.com/user-attachments/assets/59120fca-e2f0-453f-a153-ea532affcd75" width="25" align="center" /> <img src="https://github.com/user-attachments/assets/b56e847e-3932-4920-9707-6b22f432133e" width="25" align="center" />
+</h3>
 
+ https://github.com/jordonchau/Housing-Affordability-Analysis/tree/main
+ 
 
 <h3>
  Youtube Shorts Performance Prediction 
